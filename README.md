@@ -7,7 +7,7 @@ O Projeto Curriculo da turma do P1 de 2026.1 da disciplina de Tópicos Essenciai
 Esta disciplina tem como objetivo ensinar os fundamentos e práticas essenciais para o desenvolvimento de programadores utilizando as principais tecnologias e ferramentas encontradas na web, dentre elas esse projeto foca nas funcionalidades do GitHub. Os alunos aprenderão a trabalhar de maneira colaborativa, além de estruturar páginas na web, estilizar a plataforma do GitHub como interface para a troca de informações.
 
 ## 🔹 2. Passo a passo
-- **Passo 1:** Faça um Fork do repositório [NisstonUniesp/proj_2025_2_CC_N_P1_448](https://nisstonuniesp/proj_2025_2_CC_N_P1_448.git);
+- **Passo 1:** Faça um Fork do repositório [NisstonUniesp/proj_2025_2_CC_N_P1_448](https://nisstonuniesp/proj_2026_1_CC_N_P1_448.git);
 - **Passo 2:** Faça o download do arquivo **modelo.html**, lembrando que o nome do arquivo deve ser:  \_sua_matrícula.html\_;
 - **Passo 3:** Abra o VS Code e altere as informações encontradas no arquivo **modelo.html** para os seus dados, você pode acrescentar ou alterar a estrutura, em seguida salve o arquivo;
 - **Passo 4:** Volte para o repositório que você fez o Fork (**Passo 1**);
